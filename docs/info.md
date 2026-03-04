@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-nothing happens yet
+Jfasdjfkas
 
 ## How to test
 
-currently untestable
+jdkfjhaskjdhlfkjah
 
 ## External hardware
 
-none applicable currently
+asdhfjaskhldkjf hlaskjdhfl aksdjhf aslkdjfh .
